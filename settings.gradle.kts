@@ -1,1 +1,1 @@
-rootProject.name = "GitAttempt"
+rootProject.name = "GitAttemptdevelop"
